@@ -5,7 +5,7 @@
 
 int main(){
     std::cout << "Games101 Individual Homework 0" << std::endl
-              << "Author : Chang Wang from HEBUT" << std::endl
+              << "Author : Sqyl" << std::endl
               << "\n" << std::endl;
     // // Basic Example of cpp
     // std::cout << "Example of cpp \n";
